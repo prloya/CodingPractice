@@ -1,4 +1,4 @@
-package com.coder.solutions;
+package com.coder.leetcode.solutions;
 /*
 Given an m x n 2d grid map of '1's (land) and '0's (water), return the number of islands.
 

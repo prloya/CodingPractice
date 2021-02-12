@@ -1,4 +1,4 @@
-package com.coder.solutions;
+package com.coder.leetcode.solutions;
 /*
 Given the head of a linked list and two integers m and n.
 Traverse the linked list and remove some nodes in the following way:
