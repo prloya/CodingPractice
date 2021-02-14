@@ -1,4 +1,4 @@
-package com.coder.algoexpert.solutions;
+package com.coder.randomQ.solutions;
 
 import java.util.ArrayList;
 import java.util.Arrays;
